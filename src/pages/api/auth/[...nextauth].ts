@@ -1,5 +1,4 @@
 import { query as q } from 'faunadb';
-import { HttpsProxyAgent } from 'https-proxy-agent';
 
 import NextAuth from "next-auth";
 import GithubProvider from "next-auth/providers/github";
